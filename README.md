@@ -4,7 +4,7 @@ Hi everyone, my name is Alex Alvarez and I'm a student at Loyola Marymount Unive
 ---
 
 <!--
-**nklau/nklau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alexcarl98/alexcarl98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,26 +19,28 @@ Here are some ideas to get you started:
  
 
 ### 📈 GitHub Stats
-
-<a href="https://github.com/nklau?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nklau&theme=nightowl&langs_count=3&hide=html" />
+<a href="https://github.com/alexcarl98?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexcarl98&theme=nightowl&langs_count=3&hide=html" />
 </a>
-<a href="https://github.com/nklau/nklau">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nklau&show_icons=true&line_height=27&count_private=true&theme=nightowl" alt="Nat's GitHub Stats" />
+<a href="https://github.com/alexcarl98/alexcarl98">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexcarl98&show_icons=true&line_height=27&count_private=true&theme=nightowl" alt="Nat's GitHub Stats" />
 </a>
-<a href="https://github.com/nklau/bang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nklau&repo=bang&theme=nightowl" />
+<a href="https://github.com/alexcarl98/bang">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexcarl98&repo=bang&theme=nightowl" />
 </a>
-<a href="https://github.com/nklau/CMSI2120">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nklau&repo=CMSI2120&theme=nightowl" />
+<a href="https://github.com/alexcarl98/CMSI2120">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexcarl98&repo=CMSI2120&theme=nightowl" />
 </a>
-<a href="https://github.com/nklau/CMSI2210">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nklau&repo=CMSI2210&theme=nightowl" />
+<a href="https://github.com/alexcarl98/CMSI2210">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexcarl98&repo=CMSI2210&theme=nightowl" />
 </a>
 
 
 ---
 ## 🌱 Projects from current coursework
-- Compilers: I'm working on the rat language compiler for my final project.
-- Mobile Application Development 
-- Game Design
+- Compilers: [Rat Language]
+- Mobile Application Development: [FeastBeast]
+- Game Design: [Ring Runner]
+
+
+## Pet Projects
