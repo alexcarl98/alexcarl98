@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/alexcarl98/alexcarl98">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexcarl98&show_icons=true&line_height=27&count_private=true&theme=nightowl" alt="Nat's GitHub Stats" />
 </a>
-<a href="https://github.com/alexcarl98/bang">
+
+<!-- <a href="https://github.com/alexcarl98/bang">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexcarl98&repo=bang&theme=nightowl" />
 </a>
 <a href="https://github.com/alexcarl98/CMSI2120">
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/alexcarl98/CMSI2210">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexcarl98&repo=CMSI2210&theme=nightowl" />
-</a>
+</a> -->
 
 
 ---
