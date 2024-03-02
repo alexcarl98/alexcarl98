@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexcarl98&show_icons=true&line_height=27&count_private=true&theme=nightowl" alt="Nat's GitHub Stats" />
 </a>
 
+---
 <!-- <a href="https://github.com/alexcarl98/bang">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexcarl98&repo=bang&theme=nightowl" />
 </a>
@@ -39,9 +40,11 @@ Here are some ideas to get you started:
 
 ---
 ## 🌱 Projects from current coursework
-- Compilers: [Rat Language]
-- Mobile Application Development: [FeastBeast]
-- Game Design: [Ring Runner]
+- Compilers: [Rat Language](https://github.com/conda-language/rat)
+- Mobile Application Development: [FeastBeast]()
+- Game Design: [Ring Runner](https://github.com/alexcarl98/Ring_Runner)
 
 
 ## Pet Projects
+- [EnhancedLaneVision](https://github.com/alexcarl98/EnhancedLaneVision)
+- 
