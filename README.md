@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/alexcarl98?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexcarl98&theme=nightowl&langs_count=3&hide=html" />
 </a>
-<a href="https://github.com/alexcarl98/alexcarl98">
+<!-- <a href="https://github.com/alexcarl98/alexcarl98">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexcarl98" alt="Alex's GitHub Stats" />
-</a>
+</a> -->
 
 ---
 <!-- <a href="https://github.com/alexcarl98/bang">
