@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexcarl98&theme=nightowl&langs_count=3&hide=html" />
 </a>
 <a href="https://github.com/alexcarl98/alexcarl98">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexcarl98&show_icons=true&line_height=27&count_private=true&theme=nightowl" alt="Nat's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexcarl98" alt="Alex's GitHub Stats" />
 </a>
 
 ---
