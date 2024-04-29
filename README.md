@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 <!-- <a href="https://github.com/alexcarl98/alexcarl98">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexcarl98" alt="Alex's GitHub Stats" />
 </a> -->
----
 <!-- <a href="https://github.com/alexcarl98/bang">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexcarl98&repo=bang&theme=nightowl" />
 </a>
