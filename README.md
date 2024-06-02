@@ -3,9 +3,9 @@ Hi everyone, my name is **Alex Alvarez** and I'm a student at Loyola Marymount U
 
 ## Projects
 - [EnhancedLaneVision 🚗](https://github.com/alexcarl98/EnhancedLaneVision)
-- [Rat Language Organization](https://github.com/rat-language)
+- [Rat Language Organization 🧀](https://github.com/rat-language)
 - [Ring Runner 🍩](https://github.com/alexcarl98/Ring_Runner)
-- [Amulet](https://github.com/kaeladair/amulet)
+- [Amulet 🗣️](https://github.com/kaeladair/amulet)
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/alexcarl98/)
